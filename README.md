@@ -21,18 +21,13 @@
 reyhan@github:~$ whoami
 
 Reyhan Salman Alhakim
-Software Engineer
+AI & Software Engineer
 Bandung, Indonesia
 
 reyhan@github:~$ education
 
 B.Sc. Informatics Engineering
 UIN Sunan Gunung Djati Bandung
-
-reyhan@github:~$ current_status
-
-Graduate
-Open to Software Engineering Opportunities
 
 reyhan@github:~$ interests
 
@@ -42,11 +37,6 @@ reyhan@github:~$ interests
 - Machine Learning
 - Artificial Intelligence
 - Computer Vision
-
-reyhan@github:~$ mission
-
-Build software that is practical,
-scalable, and impactful.
 ```
 
 ---
@@ -58,43 +48,18 @@ reyhan@github:~$ tree projects
 
 projects
 ├── Signora
-│   └── AI-Powered BISINDO Translation System
+│   └── Video-to-Text BISINDO Translation System
 │
 ├── MAHA
-│   └── AI-Based Mental Health Assistant
+│   └── Smart health assistant application
 │
-├── Redis Cluster Lab
-│   └── Distributed Caching & High Availability
-│
-├── PubSub Calculator
-│   └── Java Event-Driven Architecture
-│
-└── SRGAN Rainfall Downscaling
-    └── Climate Data Enhancement Research
+├── Aequilibria
+    └── AI-Powered mental health monitoring
 ```
 
 ---
 
 ## 🛠 Tech Stack
-
-### Backend & Software Engineering
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
-
-### Database & Caching
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-
-### Cloud & DevOps
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=google-cloud\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
 ### AI & Data
 
@@ -102,6 +67,22 @@ projects
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+
+### Backend & Software Engineering
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+
+### Cloud & DevOps
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=google-cloud\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
 ---
 
@@ -118,28 +99,12 @@ projects
 
 ---
 
-## 📚 Currently Learning
-
-```bash
-reyhan@github:~$ learning --list
-
-[✓] Java Backend Development
-[✓] Spring Boot
-[✓] System Design Fundamentals
-[✓] Cloud Native Applications
-[✓] Distributed Systems
-[✓] Software Architecture Patterns
-```
-
----
-
 ## 🎯 2026 Goals
 
 ```bash
 reyhan@github:~$ cat goals.txt
 
-- Land a Software Engineer role
-- Build production-ready backend systems
+- Land a AI / Software Engineer role
 - Contribute to open source
 - Publish AI research
 - Pursue a Master's degree
@@ -155,8 +120,8 @@ reyhan@github:~$ contact
 LinkedIn:
 linkedin.com/in/reyhansalman
 
-GitHub:
-github.com/Ryhnslmn13
+Instagram:
+instagram.com/ryhnslmn03
 ```
 
 ---
